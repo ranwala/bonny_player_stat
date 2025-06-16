@@ -15,6 +15,7 @@ Ramanan (Mahintha) Kumar,B,SC Krefeld Boosters,5,-4,301,16,25,1,338
 Abdul Rahim Fazal,C,Moenchengladbach,4,48,253,12,25,1,338
 Ababaker Armani,A,Soest Strikers,3,155,142,8,25,1,330
 Ali Muhmad,A,TUS Borgholzhausen,5,78,226,0,25,1,329
+Atta Muhammad Shirzad,C,Bonn Golden Stars,4,109,174,18,25,1,326
 Ameya Deshpande,D,Bonn Blue Stars United,4,188,67,44,25,1,324
 Saadat Alkozai,B,Lenkerbeck Marl,5,108,187,0,25,1,320
 Ashik Rahuman,D,Koeln Blasters,6,147,119,50,0,0,316
@@ -27,12 +28,12 @@ Omair Ahmed Chaudhry,B,Lenkerbeck Marl,5,170,114,0,25,1,309
 Nangialai Babarzai,A,Soest Strikers,4,157,97,28,25,1,307
 Adam Mangal,E,Bonn Blue Stars,5,105,177,24,0,0,306
 Rohit Narayanan,F,Challengers,6,256,0,24,25,1,305
-Atta Muhammad Shirzad,C,Bonn Golden Stars,3,105,169,6,25,1,305
 Varun Ravula,D,Strass Rising Stars,4,173,130,0,0,0,303
 Ahmed Ullah,E,CICC 1,4,152,118,8,25,1,303
 Eisa Mohammad,B,Moers United,4,143,134,0,25,1,302
 Irtiza Ali,C,Moers Hawks,5,94,194,8,0,0,296
 Haseeb Ullah Sajjad,C,Moers Hawks,5,127,144,0,25,1,296
+Kaushik Ameer,C,Bonn CC Blue,4,158,76,32,25,1,291
 Zohaib Hussain,F,Gelsenkirchen United,8,39,152,74,25,1,290
 Manjot Singh,E,SC Krefeld Spartans,4,149,127,8,0,0,284
 Omed Rafiqi,C,Moenchengladbach,4,7,268,8,0,0,283
@@ -42,7 +43,6 @@ Ayush Yadav,F,DWCC,6,118,147,14,0,0,279
 Ajith Jacob,B,Westfalen Royals,5,133,113,32,0,0,278
 Kausar Agha,E,CICC 1,4,10,217,24,25,1,276
 Vikesh Subramoniam,E,Blackcaps Legends,4,73,201,0,0,0,274
-Kaushik Ameer,C,Bonn CC Blue,3,153,71,24,25,1,273
 Akshay Gupta,A,Lemgo Leopards,3,73,131,44,25,1,273
 Ahmad Reshad Sayad,E,Muelheim 1,4,139,88,16,25,1,268
 Irfan Ahmed,F,Koeln Kings,6,252,0,14,0,0,266
@@ -56,7 +56,7 @@ Fahad Khan,B,PSV Aachen,2,161,48,16,25,1,250
 Kshithij Jain Ashok Kumar,D,Bonn Blue Stars United,4,2,181,38,25,1,246
 Noori Noormal,B,Muelheim 2,7,90,99,32,25,1,246
 Paneer Raja Vajravelu,F,SC Krefeld Mavericks,5,114,123,8,0,0,245
-Charchil Gajera,C,Bonn Golden Stars,4,94,132,14,0,0,240
+Charchil Gajera,C,Bonn Golden Stars,5,92,137,14,0,0,243
 Ubaid Manzoor,C,Blackcaps Bulls,5,130,95,14,0,0,239
 Mayur Gondhalekar,B,SC Krefeld Boosters,5,22,184,8,25,1,239
 Pallab Das,F,DWCC,6,166,0,46,25,1,237
@@ -84,6 +84,7 @@ Sajawal Naveed,F,Grey Caps Aachen,5,92,90,22,0,0,204
 Raju Islam,F,Köln City Falcons CC,5,148,0,30,25,1,203
 Nazar Haroon,A,VfB Fichte Bielefeld e.V.,4,94,91,16,0,0,201
 Abubakar Safi,C,Moenchengladbach,5,-1,164,12,25,1,200
+Shihan Samsudeen,C,Bonn CC Blue,3,30,135,8,25,1,198
 Mehran Masih,B,Lenkerbeck Marl,5,174,0,24,0,0,198
 Mohammad Afaq Mehar,E,CICC 1,4,11,177,8,0,0,196
 Amey Potale,F,Challengers,5,187,0,8,0,0,195
@@ -96,7 +97,6 @@ Umer Farooq,F,Grey Caps Aachen,5,79,74,12,25,1,190
 Muhammad Tayyab,D,Koeln Blasters,6,189,0,0,0,0,189
 Mohammad Aziz Bhatti,A,Lemgo Leopards,4,-2,183,8,0,0,189
 Ajit Kumar Vorabonia,E,Muelheim 1,4,74,64,26,25,1,189
-Shihan Samsudeen,C,Bonn CC Blue,2,25,130,8,25,1,188
 Arsalan Ahmed,F,DWCC,6,27,135,24,0,0,186
 Suleman Yar,C,Moenchengladbach,4,73,94,16,0,0,183
 Yash Raj Singh,F,DWCC,6,63,96,24,0,0,183
@@ -117,12 +117,12 @@ Manoj Kumar Panthangi,E,SC Krefeld Spartans,4,87,43,44,0,0,174
 Aryan Amirzai,E,SC Krefeld Spartans,1,104,70,0,0,0,174
 Niamatullah Safi,E,Bonn Blue Stars,3,57,115,0,0,0,172
 Durga Chanakya,B,SG Gelsenkirchen Muelheim U19,5,76,42,28,25,1,171
+Paul Immanuel,C,Bonn Golden Stars,4,167,0,0,0,0,167
 Imran Dinzada,A,Soest Strikers,3,94,72,0,0,0,166
 Sagar Devangamath,D,Koeln Blasters,3,2,148,16,0,0,166
 Amir Saeed,A,TUS Borgholzhausen,5,141,0,24,0,0,165
 Jatin Lalwani,D,Koeln Blasters,1,11,119,8,25,1,163
 Mohammad Sahil Wafa,C,Moers Hawks,5,20,104,38,0,0,162
-Paul Immanuel,C,Bonn Golden Stars,3,161,0,0,0,0,161
 Mohammad Zaki Sayad,B,Muelheim 2,10,123,0,38,0,0,161
 Zain Ul Hassan,D,Strass Rising Stars,2,36,112,12,0,0,160
 Abdul Hai,B,Muelheim 2,7,5,138,14,0,0,157
@@ -159,11 +159,11 @@ Kashif Shahab,C,Blackcaps Bulls,4,53,52,34,0,0,139
 Rishathman Sureshkar,A,Lemgo Warriors,3,52,87,0,0,0,139
 Aman Kapoor,D,Bonn Blue Stars United,3,60,0,78,0,0,138
 Venkata Raviteja Velamuri,E,Blackcaps Legends,4,15,100,22,0,0,137
+Gurwinder singh nahal,C,Bonn Golden Stars,3,96,0,16,25,1,137
 Honeyjit Singh Brar,D,Bonn Blue Stars United,4,121,0,16,0,0,137
 Imranullah Rasooli,F,Koeln Kings,5,8,117,12,0,0,137
 Ishan Singh Dhapola,E,Blackcaps Legends,2,46,82,8,0,0,136
 Faheem Jan,D,Strass Rising Stars,2,73,49,14,0,0,136
-Gurwinder singh nahal,C,Bonn Golden Stars,2,95,0,16,25,1,136
 Ghulam Rasul Ahmadi,E,Bonn Blue Stars,4,54,54,28,0,0,136
 Javed Tayyab,D,CICC Wizards,3,30,90,16,0,0,136
 Tarun Rawat,C,Blackcaps Bulls,5,113,0,22,0,0,135
@@ -173,8 +173,8 @@ Mabroor Ahmad Saad,B,PSV Aachen,1,63,72,0,0,0,135
 Janeesh Vijayan,B,Westfalen Royals,4,126,0,8,0,0,134
 Mashal Miakhel,A,VfB Fichte Bielefeld e.V.,3,101,22,8,0,0,131
 Mirwali Jabarkheel,F,Gelsenkirchen United,3,89,0,16,25,1,130
+Imtiaz Sardar,C,Bonn Golden Stars,3,0,130,0,0,0,130
 Shreyas Anil Barapatre,D,Bonn Blue Stars United,3,-2,132,0,0,0,130
-Imtiaz Sardar,C,Bonn Golden Stars,2,0,128,0,0,0,128
 Abhay Subraya Mahale,F,SC Krefeld Mavericks,5,14,90,24,0,0,128
 Siddharth Mudigulam,E,Avengers,4,42,62,24,0,0,128
 Sabbir Ahmed Khan,A,Paderborn Sultans,4,55,73,0,0,0,128
@@ -209,6 +209,7 @@ Saad Bin Hilal,D,Blackcaps Bisons,4,80,0,28,0,0,108
 Prateek Dabholkar,F,Koeln Kings,4,10,76,22,0,0,108
 Kiran Kumaraswamy,D,Bonn Blue Stars United,4,42,54,12,0,0,108
 Sanket Kumar,B,Moers United,4,65,33,8,0,0,106
+Muhammad Shafiullah Khadem,C,Bonn Golden Stars,4,72,20,14,0,0,106
 Vimal Pillai,E,Blackcaps Legends,3,14,67,24,0,0,105
 Qaisar Farooq,A,Paderborn Sultans,2,9,96,0,0,0,105
 Prasad Buwanekabahu,D,Bonn CC Yellow,4,-2,94,12,0,0,104
@@ -220,9 +221,9 @@ Aniruddh Das,F,Gelsenkirchen United,3,36,47,20,0,0,103
 Aravind Sankararaman Muthusubramanian,F,Challengers,6,30,64,8,0,0,102
 Abdur Raheem,F,Grey Caps Aachen,2,3,90,8,0,0,101
 Sudipro Ray,E,Blackcaps Legends,4,72,0,28,0,0,100
-Muhammad Shafiullah Khadem,C,Bonn Golden Stars,3,66,20,14,0,0,100
 Ghulam Humayun Din Butt,E,SC Krefeld Spartans,5,83,0,16,0,0,99
 Khwaja Ahsan Elahi,C,Moers Hawks,5,14,71,14,0,0,99
+Vasanth Ramar,C,Bonn CC Blue,2,2,79,18,0,0,99
 Aryan Amirzai,E,SC Krefeld Spartans,2,33,50,16,0,0,99
 Muhammad Talha Asif Patel,C,Moers Hawks,4,55,43,0,0,0,98
 Mohit Somani,D,Bonn Blue Stars United,4,59,0,14,25,1,98
@@ -237,6 +238,7 @@ Amandeep Singh,C,Ennepetal Green Tigers,4,43,47,0,0,0,90
 Saksham Chugh,A,Paderborn Sultans,4,88,0,0,0,0,88
 Rathina Vignesh Gopal,B,Westfalen Royals,5,21,59,8,0,0,88
 Kailash Klair,B,PSV Aachen,3,64,0,24,0,0,88
+Harsha Vardhan Parupalli,C,Bonn Golden Stars,5,26,23,38,0,0,87
 Abrar Aslam,A,Lemgo Leopards,3,61,0,26,0,0,87
 Bilal Imdad,A,Paderborn Sultans,4,-4,83,8,0,0,87
 Abisheik Paneerselvam,F,SC Krefeld Mavericks,4,47,24,16,0,0,87
@@ -246,6 +248,7 @@ Idrees Sadat,B,Moers United,4,13,57,16,0,0,86
 Nawidullah Rasuli,E,Muelheim 1,2,27,57,0,0,0,84
 Kartik Cari,F,SC Krefeld Mavericks,1,-2,70,16,0,0,84
 Mustafa Ul Haq,E,SC Krefeld Spartans,2,8,67,8,0,0,83
+Prashant Bhat,C,Bonn CC Blue,3,75,0,8,0,0,83
 Rana Waseem Akhtar,D,Koeln City Adlers,2,83,0,0,0,0,83
 Punit Jindal,D,Blackcaps Bisons,4,28,46,8,0,0,82
 Muhammad Usman,A,Paderborn Sultans,5,80,0,0,0,0,80
@@ -258,9 +261,7 @@ Syed Ahsan Raza,E,Muelheim 1,2,52,22,6,0,0,80
 Balaji Venkateswar,A,Paderborn Sultans,2,72,-1,8,0,0,79
 Farooq Hussain,B,Moers United,3,63,0,16,0,0,79
 Surendran Mahendran,A,Lemgo Warriors,2,39,24,16,0,0,79
-Muhammad Zakir Khan,C,Bonn Golden Stars,2,18,0,60,0,0,78
 Sangariar Safi,F,Köln City Falcons CC,3,0,62,16,0,0,78
-Prashant Bhat,C,Bonn CC Blue,2,70,0,8,0,0,78
 Amin Khan Momand,B,PSV Aachen,1,0,50,28,0,0,78
 Varun Khanna,E,Blackcaps Legends,4,0,72,6,0,0,78
 Imran Salarzai,C,Bonn Golden Stars,1,6,72,0,0,0,78
@@ -269,6 +270,7 @@ Koushik Karanam,E,CICC 1,4,33,0,44,0,0,77
 Manzil Samsudeen,D,Bonn CC Yellow,3,63,0,14,0,0,77
 Zaffar Shaikh,E,Avengers,4,47,14,16,0,0,77
 Alen Cheriyan Chinkuthara Francis,B,Westfalen Royals,4,8,45,24,0,0,77
+Ramesh Babu Chintha,C,Bonn CC Blue,2,16,61,0,0,0,77
 Abduljamil Hemat,E,Muelheim 1,3,12,57,8,0,0,77
 Ashok Andrew,B,SC Krefeld Boosters,1,35,25,16,0,0,76
 Sasikaran Xavier,A,Lemgo Warriors,4,1,75,0,0,0,76
@@ -278,8 +280,8 @@ Asif Iqbal,A,Lemgo Leopards,3,63,0,12,0,0,75
 Muhammad Naveed,B,Moers United,4,59,0,16,0,0,75
 Mansoor Ahmad,C,Moenchengladbach,1,5,70,0,0,0,75
 Muhammad Wajahat Shafique,B,Moers United,3,9,65,0,0,0,74
-Vasanth Ramar,C,Bonn CC Blue,1,2,72,0,0,0,74
 Sandeep Rawat,F,SC Krefeld Mavericks,4,12,38,24,0,0,74
+Muhammad Zakir Khan,C,Bonn Golden Stars,3,13,0,60,0,0,73
 Shazil Mirza,E,SC Krefeld Spartans,3,65,0,8,0,0,73
 M.madeeh Ullah Jerral,F,Grey Caps Aachen,3,28,37,8,0,0,73
 Kartik Chari,F,SC Krefeld Mavericks,1,13,60,0,0,0,73
@@ -290,6 +292,7 @@ Khurshid Momand,B,Lenkerbeck Marl,2,0,44,28,0,0,72
 Harsha Mohan Panchal,F,Gelsenkirchen United,1,2,70,0,0,0,72
 Arnab Chakrabarti,F,SC Krefeld Mavericks,4,10,53,8,0,0,71
 Sivaramachandraraju Indukuri,D,Koeln Blasters,6,55,0,16,0,0,71
+Santhoshkumar Sundararaj,C,Bonn CC Blue,4,37,27,6,0,0,70
 Vikramjit Singh,F,DWCC,2,13,43,14,0,0,70
 Neeraj Saini,D,CICC Wizards,4,61,0,8,0,0,69
 William Andrew Thorp Marriage,C,Bonn CC Blue,2,22,47,0,0,0,69
@@ -297,6 +300,7 @@ Nidhin D Anand,B,Westfalen Royals,3,-2,71,0,0,0,69
 Zain-Ul-Abideen Hussain,B,SG Gelsenkirchen Muelheim U19,5,44,16,8,0,0,68
 Harsimrat Harsimrat,F,Köln City Falcons CC,4,51,0,16,0,0,67
 Amila De Zoysa,D,Bonn CC Yellow,2,54,5,8,0,0,67
+Kawsar Khan,C,Bonn CC Blue,3,59,0,8,0,0,67
 Sandeep Rathore,B,SC Krefeld Boosters,2,59,0,8,0,0,67
 Zashid Malik Leo,D,Blackcaps Bisons,3,3,48,16,0,0,67
 Surrya Rajan,A,Lemgo Leopards,2,58,0,8,0,0,66
@@ -309,7 +313,6 @@ Harshdeep Singh,B,SC Krefeld Boosters,3,65,0,0,0,0,65
 Khalil Yousafzai,C,Moenchengladbach,5,48,0,16,0,0,64
 Ijaz Ahmed Butt,B,Lenkerbeck Marl,4,36,0,28,0,0,64
 Ananth Sharma,C,Bonn Golden Stars,2,48,0,16,0,0,64
-Harsha Vardhan Parupalli,C,Bonn Golden Stars,4,17,24,22,0,0,63
 Parth Kanani,E,Avengers,4,28,35,0,0,0,63
 Jetho Arjandas Khemani,D,CICC Wizards,4,16,35,12,0,0,63
 Ronit Satapathy,F,Gelsenkirchen United,3,54,0,8,0,0,62
@@ -318,7 +321,6 @@ Dhruvkumar Patel,F,Koeln Kings,6,46,0,16,0,0,62
 Javad Kallo Kkara,C,Moenchengladbach,4,17,45,0,0,0,62
 Muhammad Hassan Manzar,F,Grey Caps Aachen,5,42,20,0,0,0,62
 Sudhanva Krishna Shastry,F,DWCC,3,45,1,16,0,0,62
-Ramesh Babu Chintha,C,Bonn CC Blue,1,0,62,0,0,0,62
 Muhammad Afzaal,D,Strass Rising Stars,1,62,0,0,0,0,62
 Sayed Sajid Hussain,A,TUS Borgholzhausen,5,61,0,0,0,0,61
 Zaheer Abbas,E,Bonn Blue Stars,2,61,0,0,0,0,61
@@ -330,12 +332,13 @@ Shirzad Paschton,E,Muelheim 1,1,63,-3,0,0,0,60
 Srinivas Senthil Kumar,D,Koeln Blasters,6,23,5,30,0,0,58
 Wahidullah Pashai,A,VfB Fichte Bielefeld e.V.,3,58,0,0,0,0,58
 Vithusan Anantha,A,Lemgo Warriors,4,-3,45,16,0,0,58
-Santhoshkumar Sundararaj,C,Bonn CC Blue,3,37,20,0,0,0,57
 Sameer Mohammed Naeem,B,SC Krefeld Boosters,3,49,0,8,0,0,57
 Armani Miakhil,B,Lenkerbeck Marl,4,6,35,16,0,0,57
 Mohammad Imran,A,Lemgo Leopards,1,57,0,0,0,0,57
+Ishara Umesh Ranaroll,C,Bonn CC Blue,4,40,0,16,0,0,56
 Viprendra Joshi,D,Bonn CC Yellow,3,13,34,8,0,0,55
 Safi Usman,D,CICC Wizards,1,1,38,16,0,0,55
+Ashish Bakshi,C,Bonn CC Blue,3,0,38,16,0,0,54
 Malith Rigel Herath,B,SC Krefeld Boosters,3,31,-1,24,0,0,54
 Jaspreet Singh,C,Ennepetal Green Tigers,3,-4,50,8,0,0,54
 Syed Murtaza Shah,C,Ennepetal Green Tigers,1,-2,48,8,0,0,54
@@ -364,7 +367,6 @@ Arsalan Siddiqui,E,SC Krefeld Spartans,1,6,42,0,0,0,48
 Chetan Anbushivam,C,Bonn Golden Stars,1,0,48,0,0,0,48
 Samay Kochhar,A,VfB Fichte Bielefeld e.V.,3,48,0,0,0,0,48
 Anoop Singh Yadav,F,Köln City Falcons CC,4,23,0,24,0,0,47
-Ashish Bakshi,C,Bonn CC Blue,2,0,38,8,0,0,46
 Chaitanya Alapati,F,SC Krefeld Mavericks,5,21,17,8,0,0,46
 Mubashir Raja,D,Strass Rising Stars,1,1,45,0,0,0,46
 Muhammad Salman Arshad,C,Ennepetal Green Tigers,2,25,20,0,0,0,45
@@ -391,7 +393,6 @@ Bipin Vishweswaraih,D,Bonn CC Yellow,1,12,27,0,0,0,39
 Raheel Farooq,F,Gelsenkirchen United,1,3,27,8,0,0,38
 Narayan Narvekar,C,Blackcaps Bulls,3,21,0,16,0,0,37
 Mahboob Shah Hamdard,A,Soest Strikers,4,4,21,12,0,0,37
-Rajveer Sharma,C,Bonn CC Blue,2,-3,40,0,0,0,37
 Bilal Sarfraz,C,Moers Hawks,1,-6,15,28,0,0,37
 Jeevanandham Ramasamy,F,Gelsenkirchen United,1,3,25,8,0,0,36
 Dhiraj Dhole,B,Westfalen Royals,3,20,0,16,0,0,36
@@ -399,12 +400,13 @@ Syed Mubasher Hassan,F,Grey Caps Aachen,1,5,19,12,0,0,36
 Naeem Akthar,E,CICC 1,1,36,0,0,0,0,36
 Naveed Stanekzai,E,Muelheim 1,4,0,36,0,0,0,36
 Jiteesh Joy,E,Blackcaps Legends,4,11,0,24,0,0,35
+Rajveer Sharma,C,Bonn CC Blue,3,-5,40,0,0,0,35
 Arif Mohammad,F,Köln City Falcons CC,2,0,27,8,0,0,35
 Mradul Kumar,E,Blackcaps Legends,3,35,0,0,0,0,35
+Imran Salarzai,C,Bonn Golden Stars,2,7,22,6,0,0,35
 Sharifollah Sherzad,F,Koeln Kings,2,1,25,8,0,0,34
 Monjur Ahmed Likhon,D,Koeln City Adlers,2,13,21,0,0,0,34
 Amir Mahmood Mubashar,D,Koeln City Adlers,2,34,0,0,0,0,34
-Imran Salarzai,C,Bonn Golden Stars,1,6,22,6,0,0,34
 Sanjay Gupta,A,Lemgo Leopards,4,17,0,16,0,0,33
 Stephanus Johannes Herselman,D,Bonn CC Yellow,3,17,0,16,0,0,33
 Syed Rofi Ahmed,A,VfB Fichte Bielefeld e.V.,2,33,0,0,0,0,33
@@ -416,7 +418,6 @@ Homan Nabizada,A,Paderborn Sultans,2,4,19,8,0,0,31
 Aswin Narasimhan Srinivasa Raghavan,E,Blackcaps Legends,1,16,15,0,0,0,31
 Ijaz Ahmed,D,Strass Rising Stars,1,-2,25,8,0,0,31
 Suleman Kamalpoori,A,TUS Borgholzhausen,1,0,22,8,0,0,30
-Ishara Umesh Ranaroll,C,Bonn CC Blue,3,22,0,8,0,0,30
 Dwarak Sekar,F,Koeln Kings,2,0,0,30,0,0,30
 Jaspal Bijay,C,Ennepetal Green Tigers,3,30,0,0,0,0,30
 Habibullah Stanikzai,A,Soest Strikers,1,8,22,0,0,0,30
@@ -447,7 +448,6 @@ Syeed Murtaza Shah,C,Ennepetal Green Tigers,1,-2,25,0,0,0,23
 Qasim Javed,D,Blackcaps Bisons,1,0,22,0,0,0,22
 Waqas Khan,D,Koeln City Adlers,1,0,22,0,0,0,22
 Fahim Alikhil,E,Bonn Blue Stars,2,5,0,16,0,0,21
-Kawsar Khan,C,Bonn CC Blue,2,21,0,0,0,0,21
 Sai Krishna Sundar,F,Challengers,2,1,20,0,0,0,21
 Bharat Unny,A,Lemgo Leopards,1,0,5,16,0,0,21
 Lovejeet Singh,B,SC Krefeld Boosters,1,0,0,20,0,0,20
@@ -462,6 +462,7 @@ Grineshkumar Sanghavi,F,Koeln Kings,1,0,-1,20,0,0,19
 Thivakaran Aritharan,B,SC Krefeld Boosters,2,3,4,12,0,0,19
 Sabarisan Muruganantham,F,SC Krefeld Mavericks,3,3,0,16,0,0,19
 Arulthas Analo,A,Lemgo Warriors,3,11,0,8,0,0,19
+Sohail Ahmad,C,Bonn Golden Stars,1,10,0,8,0,0,18
 Zaheer Ahmed,B,Lenkerbeck Marl,1,-2,20,0,0,0,18
 Muhammad Rashid,B,PSV Aachen,1,12,-3,8,0,0,17
 Sanil Bhatia,D,Blackcaps Bisons,2,9,0,8,0,0,17
@@ -472,6 +473,7 @@ Niaz Mohammad Nawaz,A,Soest Strikers,2,16,0,0,0,0,16
 Gaurav Marwaha,D,CICC Wizards,3,8,0,8,0,0,16
 Jibran Khan,D,CICC Wizards,1,13,2,0,0,0,15
 Jithinmon Thankachan,B,Westfalen Royals,1,0,15,0,0,0,15
+Bryan Rattan,C,Bonn CC Blue,2,-2,0,16,0,0,14
 Pramod Sharma,D,Bonn Blue Stars United,4,6,0,8,0,0,14
 Vijayaraghavan Moorthy,F,Challengers,2,2,12,0,0,0,14
 Niaz Mohammad Nawaz,A,Soest Strikers,2,14,0,0,0,0,14
@@ -502,6 +504,7 @@ Ejaz Uddin Hashmi,D,Strass Rising Stars,1,10,0,0,0,0,10
 Abdul Rehman,F,DWCC,1,2,0,8,0,0,10
 Farmanullah Miakhel,E,Bonn Blue Stars,2,0,2,8,0,0,10
 Hassan Jaffar,A,TUS Borgholzhausen,2,2,0,8,0,0,10
+Jatin Jatin,C,Bonn Golden Stars,1,10,0,0,0,0,10
 Hassan Ahmed,B,SG Gelsenkirchen Muelheim U19,5,1,-3,12,0,0,10
 Naeem Akhtar,E,CICC 1,1,10,0,0,0,0,10
 Fahim Alikhil,E,Bonn Blue Stars,1,-2,0,12,0,0,10
@@ -525,7 +528,6 @@ Qasir Iqbal,C,Moenchengladbach,2,2,5,0,0,0,7
 Anshad Pareekkutty,B,Westfalen Royals,2,7,0,0,0,0,7
 Zohaib Baig,C,Moenchengladbach,1,4,2,0,0,0,6
 Aman Singh,C,Ennepetal Green Tigers,2,9,-3,0,0,0,6
-Bryan Rattan,C,Bonn CC Blue,1,-2,0,8,0,0,6
 Sukhinder Singh Banwait,D,Koeln City Adlers,2,4,2,0,0,0,6
 Janarthanam Mani,B,SC Krefeld Boosters,4,6,0,0,0,0,6
 Poojan Shitansh Patel,C,Bonn Golden Stars,1,-2,0,8,0,0,6
