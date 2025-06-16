@@ -34,7 +34,7 @@ try:
     result_dataframe = get_player_statistics(option_team, option_stat)
 
     if not result_dataframe.empty:
-        st.table(result_dataframe.reset_index(drop=True))
+        st.dataframe(result_dataframe.reset_index(drop=True), use_container_width=True)
 
 except ValueError:
     st.error("Please contact Chandu...")
