@@ -1,10 +1,17 @@
 import streamlit as st
+from PIL import Image
 from backend import get_player_statistics
 from image_to_base64_converter import convert_image_to_base64
 
-image_base64 = convert_image_to_base64()
+icon = Image.open("images/logo.png")
 
-st.set_page_config(layout='wide')
+st.set_page_config(
+    page_title="Bonn Cricket Club",
+    page_icon=icon,
+    layout='wide',
+)
+
+image_base64 = convert_image_to_base64()
 
 left_co, cent_co, right_co = st.columns([1, 2, 1])
 with cent_co:
