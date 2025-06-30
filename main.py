@@ -29,16 +29,19 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-col1, col2, col3, col4 = st.columns(4)
+col1, col2, col3 = st.columns(3)
 
-with col2:
+with col1:
     option_team = st.selectbox("Select the team", ("All", "Bonn CC Blue", "Bonn CC Yellow"))
 
-with col3:
+with col2:
     option_stat = st.selectbox("Select Statistics", ("Player Ranking", "Batting Records", "Bowling Records"))
 
+with col3:
+    option_flavor = st.selectbox('Select match type', ('T20', 'ODI'))
+
 try:
-    result_dataframe = get_player_statistics(option_team, option_stat)
+    result_dataframe = get_player_statistics(option_team, option_stat, option_flavor)
 
     # Adjust height based on number of rows
     # Assume approx 35px per row (tweak as needed)
@@ -53,6 +56,12 @@ try:
         df_reset = result_dataframe.reset_index(drop=True)
         df_reset.index = df_reset.index + 1
         st.dataframe(df_reset, use_container_width=True, height=height)
+
+    else:
+        st.markdown(
+            "<h3 style='text-align: center;'>No records to display, please try another filter</h3>",
+            unsafe_allow_html=True
+        )
 
 except ValueError:
     st.error("Please contact Chandu...")
