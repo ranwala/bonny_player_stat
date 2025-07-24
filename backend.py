@@ -61,6 +61,20 @@ def get_player_statistics(team='All', stat='Player Ranking', match_type='T20'):
 
     return df[columns]
 
+def get_table_data():
+    try:
+        df = pd.read_csv('files/odi/odi_point_table.csv')
+        return df
+    except FileNotFoundError:
+        print('File not found')
+    except pd.errors.EmptyDataError:
+        print('Empty data')
+    except pd.errors.ParserError:
+        print('Paser error')
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+    return None
+
 # Test purpose
 if __name__ == '__main__':
     print(get_player_statistics(stat='Player Ranking', match_type='T20'))
