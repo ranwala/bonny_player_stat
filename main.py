@@ -1,3 +1,4 @@
+# Home
 import streamlit as st
 from PIL import Image
 from backend import get_player_statistics
